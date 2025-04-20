@@ -11,7 +11,7 @@ To identify and analyze disparities in UI benefit processing—specifically, del
 ### Folder Structure
 
 #### `ETL/`
-Contains SQL exports and Excel files generated from IDES administrative data.
+Contains SQL export script and files generated from IDES administrative data.
 
 - `hpl_time_lapse_export`: Master dataset for time lapse analysis.
 - `time_lapse_lwia_mo`: Monthly data by Local Workforce Investment Areas (LWIAs).
